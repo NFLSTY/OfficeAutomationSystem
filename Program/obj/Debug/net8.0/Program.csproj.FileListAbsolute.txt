@@ -1,0 +1,15 @@
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\bin\Debug\net8.0\Program.exe
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\bin\Debug\net8.0\Program.deps.json
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\bin\Debug\net8.0\Program.dll
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\bin\Debug\net8.0\Program.pdb
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.sourcelink.json
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.dll
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\refint\Program.dll
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.pdb
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+D:\AMIKOM Yogyakarta\Semester 2\Programming\Lecture\FinalProject\OfficeAutomationSystem\Program\obj\Debug\net8.0\ref\Program.dll
