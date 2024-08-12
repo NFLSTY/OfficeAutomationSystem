@@ -12,10 +12,23 @@ namespace OfficeAutomationSystem
             Meeting meeting = new Meeting();
             Console.Write("Enter Meeting Name: ");
             meeting.MeetingName = Console.ReadLine();
+
             Console.Write("Enter The Date (mm/dd/yy): ");
-            meeting.MeetingDate = DateTime.Parse(Console.ReadLine()?? ""); //dismiss warning
+            string? dateInput = Console.ReadLine();
+            if (string.IsNullOrEmpty(dateInput))
+            {
+                throw new ArgumentException("Date cannot be null or empty");
+            }
+            meeting.MeetingDate = DateTime.Parse(dateInput);
+
             Console.Write("Enter The Time (hh:mm): ");
-            meeting.MeetingTime = TimeSpan.Parse(Console.ReadLine()?? ""); //dismiss warning
+            string? timeInput = Console.ReadLine();
+            if (string.IsNullOrEmpty(timeInput))
+            {
+                throw new ArgumentException("Time cannot be null or empty");
+            }
+            meeting.MeetingDate = DateTime.Parse(timeInput);
+
             Console.Write("Enter Room Number: ");
             meeting.RoomNumber = Convert.ToInt32(Console.ReadLine());
             return meeting;
