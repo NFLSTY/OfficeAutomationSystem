@@ -11,6 +11,11 @@ namespace OfficeAutomationSystem
         {
             Meeting meeting = new Meeting();
             Console.Write("Enter Meeting Name: ");
+            string? meetingInput = Console.ReadLine();
+            if (string.IsNullOrEmpty(meetingInput))
+            {
+                throw new ArgumentException("Meeting cannot be null or empty");
+            }
             meeting.MeetingName = Console.ReadLine();
 
             Console.Write("Enter The Date (mm/dd/yy): ");

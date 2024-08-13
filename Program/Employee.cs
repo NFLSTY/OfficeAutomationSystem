@@ -10,10 +10,13 @@ namespace OfficeAutomationSystem
             Employee employee = new Employee();
             Console.Write("Enter Name: ");
             employee.Name = Console.ReadLine();
+            
             Console.Write("Enter Age: ");
             employee.Age = Convert.ToInt32(Console.ReadLine());
+
             Console.Write("Enter Employee ID: ");
             employee.EmployeeID = Console.ReadLine();
+            
             Console.Write("Enter Department: ");
             employee.Department = Console.ReadLine();
             return employee;
